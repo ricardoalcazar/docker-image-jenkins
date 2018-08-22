@@ -17,7 +17,7 @@ COPY install-plugins.sh /usr/local/bin/install-plugins.sh
 RUN chmod +x /usr/local/bin/install-plugins.sh
 
 # Environment variables
-ENV JAVA_OPTS="-Xmx512m"
+#ENV JAVA_OPTS="-Xmx512m -Djenkins.install.runSetupWizard=false"
 ENV JENKINS_OPTS=" --handlerCountMax=50 --logfile=/var/log/jenkins.log"
 
 # Install default plug-ins

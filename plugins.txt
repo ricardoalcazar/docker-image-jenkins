@@ -5,24 +5,42 @@ docker-plugin
 jdk-tool
 jclouds-jenkins
 durable-task
+
+ssh
+ssh-agent
+ssh-credentials
 ssh-slaves
+
 token-macro
 warnings
 build-user-vars-plugin
 build-pipeline-plugin
 timestamper
-mailer
+email-ext
 git
 
 # mcdonalds
 #artifactory
-#sonar
-ssh
-ssh-agent
-ssh-credentials
+sonar
+sonar-quality-gates
 #slack
 #logstash
 #jira
 #hockeyapp
-
+build-timeout
+copyartifact
+#envinject # warning notification on 8/22/2018
+cloudbees-folder
+git-changelog
+groovy
+parameterized-trigger
+powershell
+schedule-build
+ws-cleanup
+statistics-gatherer
+favorite
+role-strategy
+matrix-auth
+credentials
+credentials-binding
 
