@@ -1,28 +1,28 @@
 # https://updates.jenkins.io/2.121/latest/
 
-# riot
+# core
+docker-plugin
 jdk-tool
 jclouds-jenkins
 durable-task
 ssh-slaves
 token-macro
-
-# mcdonalds
-artifactory
-sonar
 warnings
 build-user-vars-plugin
+build-pipeline-plugin
 timestamper
+mailer
+git
+
+# mcdonalds
+#artifactory
+#sonar
 ssh
 ssh-agent
 ssh-credentials
-slack
-role-strategy
-build-pipeline-plugin
-mailer
-logstash
-jira
-htmlpublisher
-hockeyapp
-git
+#slack
+#logstash
+#jira
+#hockeyapp
+
 
