@@ -21,26 +21,26 @@ git
 
 # mcdonalds
 #artifactory
-sonar
-sonar-quality-gates
+#sonar
+#sonar-quality-gates
 #slack
 #logstash
 #jira
 #hockeyapp
-build-timeout
-copyartifact
+#build-timeout
+#copyartifact
 #envinject # warning notification on 8/22/2018
-cloudbees-folder
-git-changelog
-groovy
-parameterized-trigger
-powershell
-schedule-build
-ws-cleanup
-statistics-gatherer
-favorite
-role-strategy
-matrix-auth
-credentials
-credentials-binding
+#cloudbees-folder
+#git-changelog
+#groovy
+#parameterized-trigger
+#powershell
+#schedule-build
+#ws-cleanup
+#statistics-gatherer
+#favorite
+#role-strategy
+#matrix-auth
+#credentials
+#credentials-binding
 
