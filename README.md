@@ -1,4 +1,4 @@
-# docker-image-jenkins
+# docker-jenkins
 Docker image repository for Jenkins. There are multiple branches in this repository that represent Docker image tags.
 
 * LTS - Derived from Jenkins:LTS support tag.
