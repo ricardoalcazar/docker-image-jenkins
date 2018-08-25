@@ -1,25 +1,26 @@
 # https://updates.jenkins.io/2.121/latest/
 
-# core
+# CORE
 docker-plugin
 jdk-tool
 jclouds-jenkins
 durable-task
-
-ssh
-ssh-agent
-ssh-credentials
-ssh-slaves
-
 token-macro
-warnings
-build-user-vars-plugin
-build-pipeline-plugin
 timestamper
 email-ext
 git
+github
 
-# mcdonalds
+# OPTIONAL
+#ssh
+#ssh-agent
+#ssh-credentials
+#ssh-slaves
+#warnings
+#build-user-vars-plugin
+#build-pipeline-plugin
+
+# MCDONALDS
 #artifactory
 #sonar
 #sonar-quality-gates
